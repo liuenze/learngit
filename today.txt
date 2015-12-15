@@ -1,6 +1,7 @@
 today is bad day
 it's so hard
 what should I say to you
+<<<<<<< HEAD
 I feel almost die
 <<<<<<< HEAD
 so lds
@@ -8,3 +9,6 @@ so lds
 so tired
 >>>>>>> feature1
 so ljk
+=======
+please say hi to me
+>>>>>>> dev
